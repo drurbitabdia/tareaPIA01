@@ -1,2 +1,2 @@
 # tareaPIA01
-Tarea 1 PIA
+Este proyecto es para el primer ejercicio de la tarea 1 de PIA
